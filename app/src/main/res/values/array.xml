@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predictions">
+        <item>Жди денег.</item>
+        <item>Встретишь нового друга.</item>
+        <item>Получишь вдохновение в творчестве.</item>
+        <item>Карьерный рост.</item>
+        <item>Удачное путешествие.</item>
+        <item>Положительные изменения в финансах.</item>
+        <item>Разрешение конфликта.</item>
+        <item>Улучшение жизни через самосовершенствование.</item>
+    </string-array>
+</resources>
